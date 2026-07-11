@@ -38,6 +38,7 @@ But, when there is it will be found below:
 Some websites I found useful were:
 
 - [Google Gemini](https://gemini.google.com)
+- [TypeScript](https://www.typescriptlang.org)
 
 # Future Work
 
