@@ -1,0 +1,30 @@
+{
+  "name": "ninjas",
+  "version": "1.0.0",
+  "description": "NINJAS is not just another Snake",
+  "keywords": [
+    "typescript",
+    "node",
+    "snake",
+    "game",
+    "web"
+  ],
+  "homepage": "https://github.com/noduh/ninjas#readme",
+  "bugs": {
+    "url": "https://github.com/noduh/ninjas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noduh/ninjas.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Noah Jorgensen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

@@ -4,3 +4,33 @@
 *.pdf
 .vscode/
 *.drawio
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directory (installed via npm install)
+node_modules/
+
+# Production build output directory
+dist/
+build/
+
+# Local environment variables/secrets
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
